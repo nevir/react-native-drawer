@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git@github.com:rt2zz/react-native-drawer.git"
   },
+  "peerDependencies": {
+    "react-native": ">0.18.0 <1.0.0"
+  },
   "dependencies": {
     "tween-functions": "^1.0.1"
   },
